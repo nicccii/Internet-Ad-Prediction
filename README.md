@@ -1,6 +1,7 @@
 # Internet-Ad-Prediction
 
-Details of assignment brief 
+Details of assignment brief:
+
 There is ad-dataset.zip file available on moodle in the assessment information section. The 
 dataset includes image data with continuous features, binary data for the image and 
 whether it is an image for an advert or not.
@@ -12,3 +13,10 @@ and “nonad” to indicate whether an image is an advert or not an advert respe
 For the model you should also be providing a report on your discoveries, test this against
 more than one model and see how the results change and explain why different algorithms
 have different results
+
+
+Assignment Objectives: 
+1. To implement a data mining model
+2. Identification of the feature set that is needed for the data
+3. Training and testing your model
+4. Evaluating the model for its accuracy
